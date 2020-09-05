@@ -1,0 +1,28 @@
+#+TITLE: Learning Resources
+#+AUTHOR: Md. Tasnim Alam
+
+* Networking
+- Basic Networking [[https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW][Ben Eater]]
+- Explain with animation [[https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg][Information Technology]]
+
+*  Emacs (Doom)
+- [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Programming]]
+- [[https://www.youtube.com/playlist?list=PLPNohcoOBa5FT65hMZL6SkFmbyqFaLe3b][Seorenn]]
+- [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode]]
+
+* Vim/Neovim
+- Practial Vim by Drew Neil
+- [[https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R][ThePrimeagen]]
+
+* Blender (2.8)
+- [[https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6][Blender Fundamentals 2.8]]
+- [[https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U][Blender Guru]]
+
+* WordPress
+- Create a free eCommerce Website  [[https://www.youtube.com/watch?v=1EYVO6NskAc&t=4903s][Nayyar Shaikh]]
+
+* JavaScript
+- [[https://www.youtube.com/watch?v=8aGhZQkoFbQ][Event Loop]]
+
+* Org mode
+- OrgMode tutorial [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][Rainer König]]
