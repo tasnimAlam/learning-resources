@@ -23,6 +23,7 @@
 
 * JavaScript
 - [[https://www.youtube.com/watch?v=8aGhZQkoFbQ][Event Loop]]
+- [[https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg][Learn with Sumit]]
 
 * Org mode
 - OrgMode tutorial [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][Rainer König]]
