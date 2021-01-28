@@ -27,3 +27,6 @@
 
 * Org mode
 - OrgMode tutorial [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][Rainer König]]
+
+* Lua
+- [[http://tylerneylon.com/a/learn-lua/][Learn Lua in 15 minutes]]
