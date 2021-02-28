@@ -24,6 +24,12 @@
 * JavaScript
 - [[https://www.youtube.com/watch?v=8aGhZQkoFbQ][Event Loop]]
 - [[https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg][Learn with Sumit]]
+- [[https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9][Solid Principles]]
+- [[https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f][Design Patterns]]
+- You don't know JS by Kyle Simpson
 
 * Org mode
 - OrgMode tutorial [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][Rainer König]]
+
+* Lua
+- [[https://learnxinyminutes.com/docs/lua/][Learn X in Y minutes]]
