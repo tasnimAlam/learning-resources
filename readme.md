@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [Networking](#org28bb96d)
-2.  [Emacs (Doom)](#org752f3cc)
-3.  [Vim/Neovim](#org0eb99f5)
-4.  [Blender (2.8)](#orgfe828f2)
-5.  [WordPress](#orgee8ff14)
-6.  [CSS](#orge4eed31)
-7.  [JavaScript](#org3af8866)
-8.  [Org mode](#org387bb39)
-9.  [Lua](#orgb7b9058)
+1.  [Networking](#orge58f25e)
+2.  [Emacs (Doom)](#org3ee0fe3)
+3.  [Vim/Neovim](#orge241dfa)
+4.  [Blender (2.8)](#org8fcf35c)
+5.  [WordPress](#org47976b6)
+6.  [CSS](#org4cf6f02)
+7.  [JavaScript](#org2f5ed48)
+8.  [Org mode](#org6c18f00)
+9.  [Lua](#org5985b8c)
 
 
 
-<a id="org28bb96d"></a>
+<a id="orge58f25e"></a>
 
 # Networking
 
@@ -21,7 +21,7 @@
 -   Explain with animation [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
 
-<a id="org752f3cc"></a>
+<a id="org3ee0fe3"></a>
 
 # Emacs (Doom)
 
@@ -30,7 +30,7 @@
 -   [Evil Mode](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
 
 
-<a id="org0eb99f5"></a>
+<a id="orge241dfa"></a>
 
 # Vim/Neovim
 
@@ -38,7 +38,7 @@
 -   [ThePrimeagen](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
 
-<a id="orgfe828f2"></a>
+<a id="org8fcf35c"></a>
 
 # Blender (2.8)
 
@@ -46,21 +46,21 @@
 -   [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 
-<a id="orgee8ff14"></a>
+<a id="org47976b6"></a>
 
 # WordPress
 
 -   Create a free eCommerce Website  [Nayyar Shaikh](https://www.youtube.com/watch?v=1EYVO6NskAc&t=4903s)
 
 
-<a id="orge4eed31"></a>
+<a id="org4cf6f02"></a>
 
 # CSS
 
 -   Creating layouts with CSS Grid by [ Matt Henry](https://www.pluralsight.com/courses/css-grid-creating-layouts)
 
 
-<a id="org3af8866"></a>
+<a id="org2f5ed48"></a>
 
 # JavaScript
 
@@ -69,16 +69,17 @@
 -   [Solid Principles](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
 -   [Design Patterns](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f)
 -   You don&rsquo;t know JS by Kyle Simpson
+-   Eloquent JavaScript by Marijn Haverbeke
 
 
-<a id="org387bb39"></a>
+<a id="org6c18f00"></a>
 
 # Org mode
 
 -   OrgMode tutorial [Rainer König](https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
 
 
-<a id="orgb7b9058"></a>
+<a id="org5985b8c"></a>
 
 # Lua
 
