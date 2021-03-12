@@ -1,18 +1,19 @@
 
 # Table of Contents
 
-1.  [Networking](#orge98a818)
-2.  [Emacs (Doom)](#org183a870)
-3.  [Vim/Neovim](#orge3216dc)
-4.  [Blender (2.8)](#org5c05b46)
-5.  [WordPress](#org6970b62)
-6.  [JavaScript](#orgf9ca175)
-7.  [Org mode](#orgce33fc7)
-8.  [Lua](#org9aa205c)
+1.  [Networking](#org28bb96d)
+2.  [Emacs (Doom)](#org752f3cc)
+3.  [Vim/Neovim](#org0eb99f5)
+4.  [Blender (2.8)](#orgfe828f2)
+5.  [WordPress](#orgee8ff14)
+6.  [CSS](#orge4eed31)
+7.  [JavaScript](#org3af8866)
+8.  [Org mode](#org387bb39)
+9.  [Lua](#orgb7b9058)
 
 
 
-<a id="orge98a818"></a>
+<a id="org28bb96d"></a>
 
 # Networking
 
@@ -20,7 +21,7 @@
 -   Explain with animation [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
 
-<a id="org183a870"></a>
+<a id="org752f3cc"></a>
 
 # Emacs (Doom)
 
@@ -29,7 +30,7 @@
 -   [Evil Mode](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
 
 
-<a id="orge3216dc"></a>
+<a id="org0eb99f5"></a>
 
 # Vim/Neovim
 
@@ -37,7 +38,7 @@
 -   [ThePrimeagen](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
 
-<a id="org5c05b46"></a>
+<a id="orgfe828f2"></a>
 
 # Blender (2.8)
 
@@ -45,14 +46,21 @@
 -   [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 
-<a id="org6970b62"></a>
+<a id="orgee8ff14"></a>
 
 # WordPress
 
 -   Create a free eCommerce Website  [Nayyar Shaikh](https://www.youtube.com/watch?v=1EYVO6NskAc&t=4903s)
 
 
-<a id="orgf9ca175"></a>
+<a id="orge4eed31"></a>
+
+# CSS
+
+-   Creating layouts with CSS Grid by [ Matt Henry](https://www.pluralsight.com/courses/css-grid-creating-layouts)
+
+
+<a id="org3af8866"></a>
 
 # JavaScript
 
@@ -63,14 +71,14 @@
 -   You don&rsquo;t know JS by Kyle Simpson
 
 
-<a id="orgce33fc7"></a>
+<a id="org387bb39"></a>
 
 # Org mode
 
 -   OrgMode tutorial [Rainer König](https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
 
 
-<a id="org9aa205c"></a>
+<a id="orgb7b9058"></a>
 
 # Lua
 
