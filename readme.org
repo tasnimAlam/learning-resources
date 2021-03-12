@@ -21,6 +21,9 @@
 * WordPress
 - Create a free eCommerce Website  [[https://www.youtube.com/watch?v=1EYVO6NskAc&t=4903s][Nayyar Shaikh]]
 
+* CSS
+- Creating layouts with CSS Grid by [[https://www.pluralsight.com/courses/css-grid-creating-layouts][ Matt Henry]]
+
 * JavaScript
 - [[https://www.youtube.com/watch?v=8aGhZQkoFbQ][Event Loop]]
 - [[https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg][Learn with Sumit]]
