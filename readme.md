@@ -1,19 +1,20 @@
 
 # Table of Contents
 
-1.  [Networking](#orge58f25e)
-2.  [Emacs (Doom)](#org3ee0fe3)
-3.  [Vim/Neovim](#orge241dfa)
-4.  [Blender (2.8)](#org8fcf35c)
-5.  [WordPress](#org47976b6)
-6.  [CSS](#org4cf6f02)
-7.  [JavaScript](#org2f5ed48)
-8.  [Org mode](#org6c18f00)
-9.  [Lua](#org5985b8c)
+1.  [Networking](#orgcb20a72)
+2.  [Emacs (Doom)](#org0886e7c)
+3.  [Vim/Neovim](#orgd139ed9)
+4.  [Blender (2.8)](#orgddb8593)
+5.  [WordPress](#orgea09351)
+6.  [CSS](#org1200f29)
+7.  [JavaScript](#org74da7bd)
+8.  [Org mode](#orgbb8287e)
+9.  [Lua](#org259b129)
+10. [Rust](#orgaec3282)
 
 
 
-<a id="orge58f25e"></a>
+<a id="orgcb20a72"></a>
 
 # Networking
 
@@ -21,7 +22,7 @@
 -   Explain with animation [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
 
-<a id="org3ee0fe3"></a>
+<a id="org0886e7c"></a>
 
 # Emacs (Doom)
 
@@ -30,7 +31,7 @@
 -   [Evil Mode](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
 
 
-<a id="orge241dfa"></a>
+<a id="orgd139ed9"></a>
 
 # Vim/Neovim
 
@@ -38,7 +39,7 @@
 -   [ThePrimeagen](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
 
-<a id="org8fcf35c"></a>
+<a id="orgddb8593"></a>
 
 # Blender (2.8)
 
@@ -46,21 +47,21 @@
 -   [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 
-<a id="org47976b6"></a>
+<a id="orgea09351"></a>
 
 # WordPress
 
 -   Create a free eCommerce Website  [Nayyar Shaikh](https://www.youtube.com/watch?v=1EYVO6NskAc&t=4903s)
 
 
-<a id="org4cf6f02"></a>
+<a id="org1200f29"></a>
 
 # CSS
 
 -   Creating layouts with CSS Grid by [ Matt Henry](https://www.pluralsight.com/courses/css-grid-creating-layouts)
 
 
-<a id="org2f5ed48"></a>
+<a id="org74da7bd"></a>
 
 # JavaScript
 
@@ -72,16 +73,23 @@
 -   Eloquent JavaScript by Marijn Haverbeke
 
 
-<a id="org6c18f00"></a>
+<a id="orgbb8287e"></a>
 
 # Org mode
 
 -   OrgMode tutorial [Rainer König](https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
 
 
-<a id="org5985b8c"></a>
+<a id="org259b129"></a>
 
 # Lua
 
 -   [Learn X in Y minutes](https://learnxinyminutes.com/docs/lua/)
+
+
+<a id="orgaec3282"></a>
+
+# Rust
+
+-   [Get started with Rust](https://docs.microsoft.com/en-us/learn/modules/rust-get-started/)
 
