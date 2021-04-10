@@ -1,20 +1,21 @@
 
 # Table of Contents
 
-1.  [Networking](#orgcb20a72)
-2.  [Emacs (Doom)](#org0886e7c)
-3.  [Vim/Neovim](#orgd139ed9)
-4.  [Blender (2.8)](#orgddb8593)
-5.  [WordPress](#orgea09351)
-6.  [CSS](#org1200f29)
-7.  [JavaScript](#org74da7bd)
-8.  [Org mode](#orgbb8287e)
-9.  [Lua](#org259b129)
-10. [Rust](#orgaec3282)
+1.  [Networking](#orgb369c7a)
+2.  [Emacs (Doom)](#orgef62bc9)
+3.  [Vim/Neovim](#orgb657f44)
+4.  [Blender (2.8)](#org3d1edbd)
+5.  [WordPress](#org6de8915)
+6.  [CSS](#org1bb8d80)
+7.  [JavaScript](#org524f937)
+8.  [Angular](#org4e72602)
+9.  [Org mode](#org42257ab)
+10. [Lua](#org230a2fc)
+11. [Rust](#org5f1e69c)
 
 
 
-<a id="orgcb20a72"></a>
+<a id="orgb369c7a"></a>
 
 # Networking
 
@@ -22,7 +23,7 @@
 -   Explain with animation [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
 
-<a id="org0886e7c"></a>
+<a id="orgef62bc9"></a>
 
 # Emacs (Doom)
 
@@ -31,7 +32,7 @@
 -   [Evil Mode](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
 
 
-<a id="orgd139ed9"></a>
+<a id="orgb657f44"></a>
 
 # Vim/Neovim
 
@@ -39,7 +40,7 @@
 -   [ThePrimeagen](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
 
-<a id="orgddb8593"></a>
+<a id="org3d1edbd"></a>
 
 # Blender (2.8)
 
@@ -47,21 +48,21 @@
 -   [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 
-<a id="orgea09351"></a>
+<a id="org6de8915"></a>
 
 # WordPress
 
 -   Create a free eCommerce Website  [Nayyar Shaikh](https://www.youtube.com/watch?v=1EYVO6NskAc&t=4903s)
 
 
-<a id="org1200f29"></a>
+<a id="org1bb8d80"></a>
 
 # CSS
 
 -   Creating layouts with CSS Grid by [ Matt Henry](https://www.pluralsight.com/courses/css-grid-creating-layouts)
 
 
-<a id="org74da7bd"></a>
+<a id="org524f937"></a>
 
 # JavaScript
 
@@ -73,21 +74,28 @@
 -   Eloquent JavaScript by Marijn Haverbeke
 
 
-<a id="orgbb8287e"></a>
+<a id="org4e72602"></a>
+
+# Angular
+
+-   Angular: Getting Started by [Deborah Kurata](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+
+
+<a id="org42257ab"></a>
 
 # Org mode
 
 -   OrgMode tutorial [Rainer König](https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
 
 
-<a id="org259b129"></a>
+<a id="org230a2fc"></a>
 
 # Lua
 
 -   [Learn X in Y minutes](https://learnxinyminutes.com/docs/lua/)
 
 
-<a id="orgaec3282"></a>
+<a id="org5f1e69c"></a>
 
 # Rust
 

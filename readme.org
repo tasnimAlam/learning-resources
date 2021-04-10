@@ -32,6 +32,9 @@
 - You don't know JS by Kyle Simpson
 - Eloquent JavaScript by Marijn Haverbeke
 
+* Angular
+- Angular: Getting Started by [[https://www.pluralsight.com/courses/angular-2-getting-started-update][Deborah Kurata]]
+
 * Org mode
 - OrgMode tutorial [[https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][Rainer König]]
 
