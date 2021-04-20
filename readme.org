@@ -23,6 +23,7 @@
 
 * CSS
 - Creating layouts with CSS Grid by [[https://www.pluralsight.com/courses/css-grid-creating-layouts][ Matt Henry]]
+- A complete guide to flexbox[[https://css-tricks.com/snippets/css/a-guide-to-flexbox/][ CSS-TRICKS]]
 
 * JavaScript
 - [[https://www.youtube.com/watch?v=8aGhZQkoFbQ][Event Loop]]
