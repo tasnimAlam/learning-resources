@@ -44,4 +44,7 @@
 
 * Rust
 - [[https://docs.microsoft.com/en-us/learn/modules/rust-get-started/][Get started with Rust]]
-- The Rush programming language by [[https://doc.rust-lang.org/book/][Steve Klabnik and Carol Nichols]]
+- The Rust programming language by [[https://doc.rust-lang.org/book/][Steve Klabnik and Carol Nichols]]
+
+* NodeJs
+- Node js Fundamentals [[https://www.youtube.com/watch?v=fQDshQdX_rQ][Course On Demand]]

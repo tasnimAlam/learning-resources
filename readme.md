@@ -1,21 +1,22 @@
 
 # Table of Contents
 
-1.  [Networking](#org6492a26)
-2.  [Emacs (Doom)](#org9d7f317)
-3.  [Vim/Neovim](#org1177606)
-4.  [Blender (2.8)](#orgda76513)
-5.  [WordPress](#orge721c4a)
-6.  [CSS](#org80a5132)
-7.  [JavaScript](#org0646449)
-8.  [Angular](#orgbd0ecae)
-9.  [Org mode](#orgbb96a4c)
-10. [Lua](#org6244e6a)
-11. [Rust](#org339e0be)
+1.  [Networking](#org445c46f)
+2.  [Emacs (Doom)](#orgfc51e06)
+3.  [Vim/Neovim](#org23d1f89)
+4.  [Blender (2.8)](#orgdcaefc1)
+5.  [WordPress](#org7233908)
+6.  [CSS](#orgea16ff5)
+7.  [JavaScript](#orgc8ccbb1)
+8.  [Angular](#org1d89b6d)
+9.  [Org mode](#org2bf804f)
+10. [Lua](#org33f1870)
+11. [Rust](#org558def1)
+12. [NodeJs](#orgc61078e)
 
 
 
-<a id="org6492a26"></a>
+<a id="org445c46f"></a>
 
 # Networking
 
@@ -23,7 +24,7 @@
 -   Explain with animation [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
 
-<a id="org9d7f317"></a>
+<a id="orgfc51e06"></a>
 
 # Emacs (Doom)
 
@@ -32,7 +33,7 @@
 -   [Evil Mode](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
 
 
-<a id="org1177606"></a>
+<a id="org23d1f89"></a>
 
 # Vim/Neovim
 
@@ -40,7 +41,7 @@
 -   [ThePrimeagen](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
 
-<a id="orgda76513"></a>
+<a id="orgdcaefc1"></a>
 
 # Blender (2.8)
 
@@ -48,14 +49,14 @@
 -   [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 
-<a id="orge721c4a"></a>
+<a id="org7233908"></a>
 
 # WordPress
 
 -   Create a free eCommerce Website  [Nayyar Shaikh](https://www.youtube.com/watch?v=1EYVO6NskAc&t=4903s)
 
 
-<a id="org80a5132"></a>
+<a id="orgea16ff5"></a>
 
 # CSS
 
@@ -63,7 +64,7 @@
 -   A complete guide to flexbox[ CSS-TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
-<a id="org0646449"></a>
+<a id="orgc8ccbb1"></a>
 
 # JavaScript
 
@@ -75,31 +76,38 @@
 -   Eloquent JavaScript by Marijn Haverbeke
 
 
-<a id="orgbd0ecae"></a>
+<a id="org1d89b6d"></a>
 
 # Angular
 
 -   Angular: Getting Started by [Deborah Kurata](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 
 
-<a id="orgbb96a4c"></a>
+<a id="org2bf804f"></a>
 
 # Org mode
 
 -   OrgMode tutorial [Rainer König](https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
 
 
-<a id="org6244e6a"></a>
+<a id="org33f1870"></a>
 
 # Lua
 
 -   [Learn X in Y minutes](https://learnxinyminutes.com/docs/lua/)
 
 
-<a id="org339e0be"></a>
+<a id="org558def1"></a>
 
 # Rust
 
 -   [Get started with Rust](https://docs.microsoft.com/en-us/learn/modules/rust-get-started/)
--   The Rush programming language by [Steve Klabnik and Carol Nichols](https://doc.rust-lang.org/book/)
+-   The Rust programming language by [Steve Klabnik and Carol Nichols](https://doc.rust-lang.org/book/)
+
+
+<a id="orgc61078e"></a>
+
+# NodeJs
+
+-   Node js Fundamentals [Course On Demand](https://www.youtube.com/watch?v=fQDshQdX_rQ)
 
