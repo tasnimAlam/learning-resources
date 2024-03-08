@@ -100,3 +100,7 @@
 # NodeJs
 
 - Node js Fundamentals [Course On Demand](https://www.youtube.com/watch?v=fQDshQdX_rQ)
+
+# Git
+
+- [Conventional](https://www.conventionalcommits.org/en/v1.0.0/#summary) commit
