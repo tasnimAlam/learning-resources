@@ -16,7 +16,7 @@
 <a id="org445c46f"></a>
 
 # Networking
-
+- [How web works](https://github.com/vasanthk/how-web-works)  
 - Basic Networking [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
 - Explain with animation [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
